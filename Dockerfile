@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-staging-prometheus-adapter-amd64
+directxman12/k8s-prometheus-adapter-amd64
